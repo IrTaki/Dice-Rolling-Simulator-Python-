@@ -7,6 +7,10 @@ Concepts Used:
 * Print
 * While Loops
 
+## To Do
+* Comment the code
+* Make the code more visually pleasing to read
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
