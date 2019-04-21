@@ -6,10 +6,7 @@ Concepts Used:
 * Integer
 * Print
 * While Loops
-
-## To Do
-* Comment the code
-* Make the code more visually pleasing to read
+* Functions
 
 ## Getting Started
 
@@ -34,3 +31,4 @@ This project is licensed under the GNU General Public License V3.0 - see the [LI
 ## Acknowledgments
 
 * **Billie Thompson** - *Readme Template* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Shelly Tan** - *Project Idea* - [KnightLab](https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/)
